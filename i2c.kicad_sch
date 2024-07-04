@@ -1,0 +1,52 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6cddc366-23bb-41d0-b21e-dd93a4392482")
+	(paper "A4")
+	(lib_symbols)
+	(global_label "I2C_SDA_BUS"
+		(shape input)
+		(at 34.29 22.86 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4f27797e-847a-41b1-8727-3a0c4676ab18")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 18.9072 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C_SCL_BUS"
+		(shape input)
+		(at 34.29 27.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9c281ecb-0faf-4f2f-af2e-8a875b3ff171")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 18.9677 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+)

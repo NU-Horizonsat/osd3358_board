@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5deb3880-3edc-4e04-8d18-c290fe73b7ce")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 25.4 30.48)
+		(size 16.51 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "06fc8dc1-2ec0-46b4-bcdf-680cc749d11e")
+		(property "Sheetname" "OSD3358 B C"
+			(at 25.4 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "osd3358 b c.kicad_sch"
+			(at 25.4 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd3358_board"
+				(path "/5deb3880-3edc-4e04-8d18-c290fe73b7ce"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 43.18)
+		(size 16.51 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0cbc6161-dd69-4863-aa64-eab3b119f2d6")
+		(property "Sheetname" "OSD3358 D"
+			(at 25.4 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "osd3358 d.kicad_sch"
+			(at 25.4 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd3358_board"
+				(path "/5deb3880-3edc-4e04-8d18-c290fe73b7ce"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 81.28)
+		(size 16.51 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b9dddb2-c0cb-44af-9298-d1dad0cede91")
+		(property "Sheetname" "CAN"
+			(at 25.4 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "can.kicad_sch"
+			(at 25.4 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd3358_board"
+				(path "/5deb3880-3edc-4e04-8d18-c290fe73b7ce"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 68.58)
+		(size 16.51 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "77e55a86-e210-41b5-8646-7934197759ed")
+		(property "Sheetname" "I2C"
+			(at 25.4 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "i2c.kicad_sch"
+			(at 25.4 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd3358_board"
+				(path "/5deb3880-3edc-4e04-8d18-c290fe73b7ce"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 55.88)
+		(size 16.51 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b099e2a2-82a1-41ff-a8bd-92e307df9e82")
+		(property "Sheetname" "Debug Connector"
+			(at 25.4 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "debug.kicad_sch"
+			(at 25.4 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd3358_board"
+				(path "/5deb3880-3edc-4e04-8d18-c290fe73b7ce"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 17.78)
+		(size 15.24 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c646dd8e-2fa0-4a62-9cae-764dfe5a6253")
+		(property "Sheetname" "OSD3358 A E F"
+			(at 25.4 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "osd3358_a_e_f.kicad_sch"
+			(at 25.4 25.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "osd3358_board"
+				(path "/5deb3880-3edc-4e04-8d18-c290fe73b7ce"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
