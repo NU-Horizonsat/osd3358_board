@@ -169,7 +169,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "b099e2a2-82a1-41ff-a8bd-92e307df9e82")
-		(property "Sheetname" "Debug Connector"
+		(property "Sheetname" "Connectors"
 			(at 25.4 55.1684 0)
 			(effects
 				(font
@@ -178,7 +178,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "debug.kicad_sch"
+		(property "Sheetfile" "connectors.kicad_sch"
 			(at 25.4 64.0846 0)
 			(effects
 				(font
